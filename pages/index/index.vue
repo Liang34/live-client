@@ -1,9 +1,10 @@
 <template>
-	<view class="content">
-		<image class="logo" src="/static/logo.png"></image>
-		<view class="text-area">
-			<text class="title">{{title}}</text>
+	<view>
+		<view class="flex">
+			<view class="bg-danger flex-1 text-center">1</view>
+			<view class="bg-main flex-1 text-center">1</view>
 		</view>
+		<text class="iconfont iconfaxain" style="font-size: 100rpx;"></text>
 	</view>
 </template>
 
@@ -24,29 +25,4 @@
 </script>
 
 <style>
-	.content {
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		justify-content: center;
-	}
-
-	.logo {
-		height: 200rpx;
-		width: 200rpx;
-		margin-top: 200rpx;
-		margin-left: auto;
-		margin-right: auto;
-		margin-bottom: 50rpx;
-	}
-
-	.text-area {
-		display: flex;
-		justify-content: center;
-	}
-
-	.title {
-		font-size: 36rpx;
-		color: #8f8f94;
-	}
 </style>
