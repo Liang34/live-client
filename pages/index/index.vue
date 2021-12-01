@@ -12,112 +12,7 @@
 		</swiper>
 		<!-- 列表 -->
 		<view class="flex flex-wrap">
-			<view class="list-item" >
-				<image src="/static/demo/1.jpg" style="width: 365rpx;height: 365rpx;" class="rounded" mode="aspectFill"></image>
-				<!--left Top-->
-				<view class="rounded-circle px-2 flex align-center" style="position: absolute;left: 15rpx;top: 15rpx;background-color: rgba(0,0,0,0.4);">
-					<text class="iconfont iconbizhongguanli text-warning mr-1"></text>
-					<text class="text-white font">15</text>
-				</view>
-				<!-- right Top -->
-				<view class="rounded-circle px-2 flex align-center" style="position: absolute;right: 15rpx; top: 15rpx; background-color: rgba(0,0,0,0.4);">
-					<text class="font-sm text-white">人气：</text>
-					<text class="text-white font-sm">999</text>
-				</view>
-				<!-- left buttom-->
-				<view class="rounded-circle flex align-center" style="position: absolute;left: 15rpx;bottom: 15rpx;">
-					<text class="text-white font">test</text>
-				</view>
-				<view class="rounded-circle px-2 flex align-center" style="position: absolute;right: 15rpx;bottom: 15rpx;background-color: rgba(0,0,0,0.4);">
-					<text style="width: 20rpx;height: 20rpx;" class="rounded-circle mr-1"></text>
-					<text class="text-white font-sm">1</text>
-				</view>
-			</view>
-			<view class="list-item" >
-				<image src="/static/demo/1.jpg" style="width: 365rpx;height: 365rpx;" class="rounded" mode="aspectFill"></image>
-				<!--left Top-->
-				<view class="rounded-circle px-2 flex align-center" style="position: absolute;left: 15rpx;top: 15rpx;background-color: rgba(0,0,0,0.4);">
-					<text class="iconfont iconbizhongguanli text-warning mr-1"></text>
-					<text class="text-white font">15</text>
-				</view>
-				<!-- right Top -->
-				<view class="rounded-circle px-2 flex align-center" style="position: absolute;right: 15rpx; top: 15rpx; background-color: rgba(0,0,0,0.4);">
-					<text class="font-sm text-white">人气：</text>
-					<text class="text-white font-sm">999</text>
-				</view>
-				<!-- left buttom-->
-				<view class="rounded-circle flex align-center" style="position: absolute;left: 15rpx;bottom: 15rpx;">
-					<text class="text-white font">test</text>
-				</view>
-				<view class="rounded-circle px-2 flex align-center" style="position: absolute;right: 15rpx;bottom: 15rpx;background-color: rgba(0,0,0,0.4);">
-					<text style="width: 20rpx;height: 20rpx;" class="rounded-circle mr-1"></text>
-					<text class="text-white font-sm">1</text>
-				</view>
-			</view>
-			<view class="list-item" >
-				<image src="/static/demo/1.jpg" style="width: 365rpx;height: 365rpx;" class="rounded" mode="aspectFill"></image>
-				<!--left Top-->
-				<view class="rounded-circle px-2 flex align-center" style="position: absolute;left: 15rpx;top: 15rpx;background-color: rgba(0,0,0,0.4);">
-					<text class="iconfont iconbizhongguanli text-warning mr-1"></text>
-					<text class="text-white font">15</text>
-				</view>
-				<!-- right Top -->
-				<view class="rounded-circle px-2 flex align-center" style="position: absolute;right: 15rpx; top: 15rpx; background-color: rgba(0,0,0,0.4);">
-					<text class="font-sm text-white">人气：</text>
-					<text class="text-white font-sm">999</text>
-				</view>
-				<!-- left buttom-->
-				<view class="rounded-circle flex align-center" style="position: absolute;left: 15rpx;bottom: 15rpx;">
-					<text class="text-white font">test</text>
-				</view>
-				<view class="rounded-circle px-2 flex align-center" style="position: absolute;right: 15rpx;bottom: 15rpx;background-color: rgba(0,0,0,0.4);">
-					<text style="width: 20rpx;height: 20rpx;" class="rounded-circle mr-1"></text>
-					<text class="text-white font-sm">1</text>
-				</view>
-			</view>
-			<view class="list-item" >
-				<image src="/static/demo/1.jpg" style="width: 365rpx;height: 365rpx;" class="rounded" mode="aspectFill"></image>
-				<!--left Top-->
-				<view class="rounded-circle px-2 flex align-center" style="position: absolute;left: 15rpx;top: 15rpx;background-color: rgba(0,0,0,0.4);">
-					<text class="iconfont iconbizhongguanli text-warning mr-1"></text>
-					<text class="text-white font">15</text>
-				</view>
-				<!-- right Top -->
-				<view class="rounded-circle px-2 flex align-center" style="position: absolute;right: 15rpx; top: 15rpx; background-color: rgba(0,0,0,0.4);">
-					<text class="font-sm text-white">人气：</text>
-					<text class="text-white font-sm">999</text>
-				</view>
-				<!-- left buttom-->
-				<view class="rounded-circle flex align-center" style="position: absolute;left: 15rpx;bottom: 15rpx;">
-					<text class="text-white font">test</text>
-				</view>
-				<view class="rounded-circle px-2 flex align-center" style="position: absolute;right: 15rpx;bottom: 15rpx;background-color: rgba(0,0,0,0.4);">
-					<text style="width: 20rpx;height: 20rpx;" class="rounded-circle mr-1"></text>
-					<text class="text-white font-sm">1</text>
-				</view>
-			</view>
-			<view class="list-item" >
-				<image src="/static/demo/1.jpg" style="width: 365rpx;height: 365rpx;" class="rounded" mode="aspectFill"></image>
-				<!--left Top-->
-				<view class="rounded-circle px-2 flex align-center" style="position: absolute;left: 15rpx;top: 15rpx;background-color: rgba(0,0,0,0.4);">
-					<text class="iconfont iconbizhongguanli text-warning mr-1"></text>
-					<text class="text-white font">15</text>
-				</view>
-				<!-- right Top -->
-				<view class="rounded-circle px-2 flex align-center" style="position: absolute;right: 15rpx; top: 15rpx; background-color: rgba(0,0,0,0.4);">
-					<text class="font-sm text-white">人气：</text>
-					<text class="text-white font-sm">999</text>
-				</view>
-				<!-- left buttom-->
-				<view class="rounded-circle flex align-center" style="position: absolute;left: 15rpx;bottom: 15rpx;">
-					<text class="text-white font">test</text>
-				</view>
-				<view class="rounded-circle px-2 flex align-center" style="position: absolute;right: 15rpx;bottom: 15rpx;background-color: rgba(0,0,0,0.4);">
-					<text style="width: 20rpx;height: 20rpx;" class="rounded-circle mr-1"></text>
-					<text class="text-white font-sm">1</text>
-				</view>
-			</view>
-			<view class="list-item" >
+			<view class="list-item" v-for="i in 10" @click="openLive(i)">
 				<image src="/static/demo/1.jpg" style="width: 365rpx;height: 365rpx;" class="rounded" mode="aspectFill"></image>
 				<!--left Top-->
 				<view class="rounded-circle px-2 flex align-center" style="position: absolute;left: 15rpx;top: 15rpx;background-color: rgba(0,0,0,0.4);">
@@ -168,7 +63,7 @@
 		},
 		// 页面加载
 		onLoad() {
-			this.getData()
+			// this.getData()
 		},
 		onPullDownRefresh() {
 			this.page = 1,
@@ -182,7 +77,11 @@
 			// })
 		},
 		methods: {
-
+			openLive(i) {
+				uni.navigateTo({
+					url: '../live/live'
+				})
+			}
 		}
 	}
 </script>
