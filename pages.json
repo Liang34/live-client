@@ -16,6 +16,31 @@
             }
             
         }
+        ,{
+            "path" : "pages/create-live/create-live",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/my/my",
+            "style" :                                                                                    
+            {
+				"app-plus": {
+					"titleNView": {
+						"titleText":"个人中心",
+						"titleAlign":"left",
+						"buttons":[{
+							"type":"menu"
+						}]
+					}
+				}
+            }
+            
+        }
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
@@ -28,16 +53,16 @@
 		"selectedColor": "#8745FF",
 		"backgroundColor": "#FFFFFF",
 		"borderStyle": "black",
-		"midButton": {
-			"iconPath": "static/tabbar/min.png",
-			"iconWidth": "60px",
-			"height": "65px"
-		},
 		"list": [{
 			"iconPath": "./static/tabbar/find.png",
 			"selectedIconPath": "static/tabbar/find-selected.png",
 			"pagePath": "pages/index/index",
 			"text": "发现"
+		},{
+			"iconPath": "./static/tabbar/find.png",
+			"selectedIconPath": "static/tabbar/find-selected.png",
+			"pagePath": "pages/create-live/create-live",
+			"text": "直播"
 		}, {
 			"iconPath": "static/tabbar/my.png",
 			"selectedIconPath": "static/tabbar/my-selected.png",
