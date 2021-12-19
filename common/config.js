@@ -1,5 +1,5 @@
 export default {
-	baseUrl:"http://liveapi2.dishait.cn",
+	baseUrl:"http://192.168.123.129:7001/api",
 	socketUrl:"http://liveapi2.dishait.cn",
 	imageUrl:"http://liveapi2.dishait.cn",
 		
